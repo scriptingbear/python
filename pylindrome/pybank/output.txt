@@ -1,0 +1,178 @@
+Welcome to PYBANK!
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+1
+Enter user name: Harry Potter
+Enter amount of DEPOSIT: 5
+Savings account #91852 has been created for customer Harry Potter with opening balance of $5.00.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+1
+Enter user name: Hermione Granger
+Enter amount of DEPOSIT: 1200.95
+Savings account #47467 has been created for customer Hermione Granger with opening balance of $1,200.95.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+1
+Enter user name: Ron Weasley
+Enter amount of DEPOSIT: 32.27
+Savings account #96006 has been created for customer Ron Weasley with opening balance of $32.27.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+5
+Account   Name                          Balance             
+======================================================================
+91852     Harry Potter                  $5.00
+47467     Hermione Granger              $1,200.95
+96006     Ron Weasley                   $32.27
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+2
+Enter user name: Harry Potter
+Enter 5 digit account number: 91852
+Enter amount of DEPOSIT: -8
+Invalid amount.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+2
+Enter user name: Harry Powder
+Enter 5 digit account number: 91852
+Invalid user name.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+5
+Account   Name                          Balance             
+======================================================================
+91852     Harry Potter                  $5.00
+47467     Hermione Granger              $1,200.95
+96006     Ron Weasley                   $32.27
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+2
+Enter user name: Harry Potter
+Enter 5 digit account number: 91852
+Enter amount of DEPOSIT: 20
+An deposit of $20.00 has been made to account 91852 for a current balance of $25.00.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+5
+Account   Name                          Balance             
+======================================================================
+91852     Harry Potter                  $25.00
+47467     Hermione Granger              $1,200.95
+96006     Ron Weasley                   $32.27
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+3
+Enter user name: Hermione Granger
+Enter 5 digit account number: 47467
+Enter amount of WITHDRAWAL: 200
+An withdrawal of $200.00 has been made to account 47467 for a current balance of $1,000.95.
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+5
+Account   Name                          Balance             
+======================================================================
+91852     Harry Potter                  $25.00
+47467     Hermione Granger              $1,000.95
+96006     Ron Weasley                   $32.27
+
+Select an option:
+1. Create an account
+2. Make a deposit
+3. Make a withdrawal
+4. Display balance
+5. Display all acounts
+Q. Quit
+
+
+Q
+Thanks for using PYBANK! Goodbye!
